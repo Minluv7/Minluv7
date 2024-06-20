@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nese Yildirim</h1>
-<h3 align="center">A student full stack developer from Belgium</h3>
+<h3 align="center">A full stack developer from Belgium</h3>
 <p align="center">
  
   <img  alt=“Coding” width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpzeGR5N2ZqZ2pmOGs0NTY5endjNWZ2c3NkcWFjdjVwZnA4ZGd5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"/>
